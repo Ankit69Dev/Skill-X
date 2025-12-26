@@ -82,5 +82,5 @@ Whether you’re here to **learn new skills**, **teach what you love**, or **con
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/nios-x/SkillX.git
+git clone https://github.com/Ankit69Dev/Skill-X.git
 cd SkillX
