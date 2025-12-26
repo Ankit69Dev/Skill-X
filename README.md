@@ -6,7 +6,7 @@
 Built with modern web technologies, SkillX brings together **learning, collaboration, and gamification** — creating a community where knowledge sharing is rewarded.  
 
 🌍 **Live:** [https://skill-x-kappa.vercel.app/](https://skill-x-kappa.vercel.app/)  
-💻 **GitHub:** [https://github.com/nios-x/SkillX]()  
+💻 **GitHub:** [https://github.com/Ankit69Dev](https://github.com/Ankit69Dev)  
 
 ---
 
